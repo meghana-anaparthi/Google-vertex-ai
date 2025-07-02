@@ -8,6 +8,8 @@ https://cloud.google.com/vertex-ai/generative-ai/docs/rag-engine/llm-parser#pyth
 ![image](https://github.com/user-attachments/assets/1b6a502b-3d5d-450f-b766-2acaef5c0fdd)
 ![image](https://github.com/user-attachments/assets/73d87223-bce7-4481-befe-30dbcfb3ed48)
 ![image](https://github.com/user-attachments/assets/17a6f3bc-5a74-472e-b26f-81c2fa9b130f)
+![image](https://github.com/user-attachments/assets/5402ded0-2559-4dd5-9e15-93be9866ea2c)
+
 
 
 
