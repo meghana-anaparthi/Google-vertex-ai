@@ -14,3 +14,4 @@ https://cloud.google.com/vertex-ai/generative-ai/docs/agent-engine/overview
 
 ![image](https://github.com/user-attachments/assets/44c32e4b-64e3-4122-9840-448d65aee3e1)
 
+https://medium.com/google-cloud/google-cloud-vertex-ai-agent-builder-conversation-agent-to-query-big-query-data-a5759ed0a891
